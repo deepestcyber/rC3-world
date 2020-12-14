@@ -113,6 +113,26 @@
  </tileset>
  <tileset firstgid="101" name="interior-free" tilewidth="32" tileheight="32" tilecount="736" columns="16">
   <image source="../tilesets/Modern tiles_Free/Tilesets_free/32x32/Interiors_free_32x32.png" width="512" height="1472"/>
+  <tile id="592">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="593">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="608">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="609">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
  </tileset>
  <layer id="1" name="start" width="104" height="109" tintcolor="#7a0000">
   <data encoding="csv">
@@ -341,6 +361,9 @@
 </data>
  </layer>
  <layer id="4" name="Tile Layer 3" width="104" height="109">
+  <properties>
+   <property name="openWebsite" value="https://www.whiteboard.team/app/board/3W19PL3IMKACYVD"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,679,680,0,0,0,0,487,488,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,695,696,0,0,0,0,503,504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

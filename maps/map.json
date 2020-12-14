@@ -41,6 +41,12 @@
          "id":4,
          "name":"Tile Layer 3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.whiteboard.team\/app\/board\/3W19PL3IMKACYVD"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":104,
@@ -279,6 +285,43 @@
          "spacing":0,
          "tilecount":736,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":592,
+                 "properties":[
+                        {
+                         "name":"collision",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":593,
+                 "properties":[
+                        {
+                         "name":"collision",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":608,
+                 "properties":[
+                        {
+                         "name":"collision",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":609,
+                 "properties":[
+                        {
+                         "name":"collision",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
