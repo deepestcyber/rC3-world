@@ -1,3 +1,7 @@
+# Participation
+
+- edit the `maps/*.tmx` files **NOT** the `.json` files
+
 # How can I test this?
 
 Click on [this](https://play.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/deepestcyber/rC3-world/master/maps/map.json) link.
