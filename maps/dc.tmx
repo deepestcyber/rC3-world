@@ -3,7 +3,9 @@
  <editorsettings>
   <export target="map.json" format="json"/>
  </editorsettings>
- <tileset firstgid="1" source="../tilesets/Modern tiles_Free/Tilesets_free/32x32/Tileset_32x32_9.tsx"/>
+ <tileset firstgid="1" name="Tileset_32x32_9" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <image source="../tilesets/Modern tiles_Free/Tilesets_free/32x32/Tileset_32x32_9.png" width="320" height="320"/>
+ </tileset>
  <layer id="1" name="start" width="104" height="109" tintcolor="#7a0000">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

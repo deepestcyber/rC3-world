@@ -66,8 +66,17 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":10,
          "firstgid":1,
-         "source":"..\/tilesets\/Modern tiles_Free\/Tilesets_free\/32x32\/Tileset_32x32_9.tsx"
+         "image":"..\/tilesets\/Modern tiles_Free\/Tilesets_free\/32x32\/Tileset_32x32_9.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Tileset_32x32_9",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
