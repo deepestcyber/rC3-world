@@ -34,3 +34,9 @@ are included:
 3. add `"playAudio"` with the file name (or URL) as custom property to that layer
 
 ![Audio setup in tiled](./audio_tiled.png)
+
+
+## Shortcuts
+
+- You can hold 'shift' to run faster
+- You can press e/f/space to interact with items
