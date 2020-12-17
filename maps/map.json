@@ -75,7 +75,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/yopad.eu\/p\/deepcyberatrc3-365days"
+                 "value":"https:\/\/etherpad.rz.uni-leipzig.de\/p\/deepcyberatrc3"
                 }],
          "type":"tilelayer",
          "visible":true,
