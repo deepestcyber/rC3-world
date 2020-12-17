@@ -75,7 +75,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.whiteboard.team\/app\/board\/https:\/\/yopad.eu\/p\/deepcyberatrc3-365days"
+                 "value":"https:\/\/yopad.eu\/p\/deepcyberatrc3-365days"
                 }],
          "type":"tilelayer",
          "visible":true,

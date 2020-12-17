@@ -696,7 +696,7 @@
  </layer>
  <layer id="12" name="whiteboard 2" width="104" height="109">
   <properties>
-   <property name="openWebsite" value="https://www.whiteboard.team/app/board/https://yopad.eu/p/deepcyberatrc3-365days"/>
+   <property name="openWebsite" value="https://yopad.eu/p/deepcyberatrc3-365days"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,679,680,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
