@@ -931,24 +931,24 @@
   <object id="1" type="computer" x="389.333" y="108"/>
  </objectgroup>
  <objectgroup id="13" name="display?">
-  <object id="81" type="computer" x="80" y="1000"/>
-  <object id="82" type="computer" x="80" y="1040"/>
-  <object id="83" type="computer" x="80" y="1080"/>
-  <object id="84" type="computer" x="80" y="1120"/>
+  <object id="81" type="computer" x="100" y="1000"/>
+  <object id="82" type="computer" x="100" y="1050"/>
+  <object id="83" type="computer" x="100" y="1100"/>
+  <object id="84" type="computer" x="100" y="1150"/>
   
-  <object id="91" type="computer" x="120" y="1000"/>
-  <object id="92" type="computer" x="120" y="1040"/>
-  <object id="93" type="computer" x="120" y="1080"/>
-  <object id="94" type="computer" x="120" y="1120"/>
+  <object id="91" type="computer" x="150" y="1000"/>
+  <object id="92" type="computer" x="150" y="1050"/>
+  <object id="93" type="computer" x="150" y="1100"/>
+  <object id="94" type="computer" x="150" y="1150"/>
   
-  <object id="101" type="computer" x="160" y="1000"/>
-  <object id="102" type="computer" x="160" y="1040"/>
-  <object id="103" type="computer" x="160" y="1080"/>
-  <object id="104" type="computer" x="160" y="1120"/>
+  <object id="101" type="computer" x="200" y="1000"/>
+  <object id="102" type="computer" x="200" y="1050"/>
+  <object id="103" type="computer" x="200" y="1100"/>
+  <object id="104" type="computer" x="200" y="1150"/>
   
-  <object id="111" type="computer" x="200" y="1000"/>
-  <object id="112" type="computer" x="200" y="1040"/>
-  <object id="113" type="computer" x="200" y="1080"/>
-  <object id="114" type="computer" x="200" y="1120"/>
+  <object id="111" type="computer" x="250" y="1000"/>
+  <object id="112" type="computer" x="250" y="1050"/>
+  <object id="113" type="computer" x="250" y="1100"/>
+  <object id="114" type="computer" x="250" y="1150"/>
  </objectgroup>
 </map>
