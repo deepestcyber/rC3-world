@@ -8,14 +8,15 @@ def display_with_text(
     base_image,
     text_image,
     x_trans=0,
+    wrap_around=True,
+    display_size=(30, 10),
+    display_border_width=1,
 ):
-    display_border_width = 1
     x_trans += display_border_width
 
     text_image_trans = Image.new("RGBA", text_image.size, 0)
     text_image_trans.paste(text_image, (x_trans, 0), text_image)
 
-    display_size = (30, 10)
     text_mask = Image.new("L", text_image.size, 0)
     text_mask.paste(text_image, (x_trans, 0), text_image)
 

@@ -26,3 +26,10 @@ python lauftext.py
 
 and it will generate `test_tile.png` which contains
 all your animation tiles (each row is a time-step).
+
+# To do / nice to have
+
+- wrap around (i.e. when reaching end of text image,
+  use pixels from the end / beginning)
+
+- 16x32 tiles maybe?
