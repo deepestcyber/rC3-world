@@ -4,7 +4,11 @@ from PIL import ImageDraw, ImageFilter
 import matplotlib.pyplot as plt
 
 
-def display_with_text(base_image, text_image, x_trans=0):
+def display_with_text(
+    base_image,
+    text_image,
+    x_trans=0,
+):
     display_border_width = 1
     x_trans += display_border_width
 
@@ -51,6 +55,8 @@ if __name__ == "__main__":
 
     parser.add_argument('--base-image', type=str, default='base.png')
     parser.add_argument('--text-image', type=str, default='text.png')
+    parser.add_argument('--speed', type=int, default=-1,
+        help='Move by this many pixels each frame')
 
     args = parser.parse_args()
 
@@ -73,7 +79,10 @@ if __name__ == "__main__":
         x_offset = col * tile_width
 
         comb_image = display_with_text(
-                base_image, text_image, x_trans=-i)
+            base_image,
+            text_image,
+            x_trans=args.speed * i,
+        )
 
         tile_image.paste(comb_image, (x_offset, y_offset))
 
