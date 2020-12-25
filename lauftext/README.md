@@ -27,6 +27,11 @@ python lauftext.py
 and it will generate `test_tile.png` which contains
 all your animation tiles (each row is a time-step).
 
+# What font to use?
+
+I found `fixed_01` to work quite well. You can get it
+[here](http://www.orgdot.com/aliasfonts/fixed_01.zip).
+
 # To do / nice to have
 
 - wrap around (i.e. when reaching end of text image,
