@@ -88,7 +88,7 @@
         },
         "maps/dc.tmx": {
             "scale": 0.5,
-            "selectedLayer": 9,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 701,
                 "y": 494
