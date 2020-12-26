@@ -41,8 +41,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 458.5,
-                "y": 308
+                "x": 480.5,
+                "y": 351
             }
         },
         "maps/dc-wb-kino.tmx#13_Conference_Hall_32x32": {
@@ -90,8 +90,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 964.5,
-                "y": 482
+                "x": 963.5,
+                "y": 481
             }
         },
         "maps/dc.tmx#14_Basement_32x32": {
@@ -159,7 +159,7 @@
         "maps/dc.tmx"
     ],
     "project": "dc.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "maps/dc.tmx",
         "tilesets/14_Basement_32x32.tsx",
