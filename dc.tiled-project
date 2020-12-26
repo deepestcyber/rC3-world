@@ -2,7 +2,7 @@
     "automappingRulesFile": "",
     "commands": [
     ],
-    "extensionsPath": "maps/extensions",
+    "extensionsPath": "extensions",
     "folders": [
         "."
     ],

@@ -3,8 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "maps/anim.tmx",
+    "activeFile": "maps/dc.tmx",
     "expandedProjectPaths": [
+        ".",
+        "maps",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -35,12 +38,18 @@
             "scaleInEditor": 1
         },
         "maps/dc.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 1,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 317.33333333333326,
-                "y": 152.66666666666669
+                "x": 819,
+                "y": 265
             }
+        },
+        "maps/dc.tmx#14_Basement_32x32": {
+            "scaleInDock": 1
+        },
+        "maps/dc.tmx#Floors_only_32x32": {
+            "scaleInDock": 1
         },
         "maps/dc.tmx#Tileset_32x32_3": {
             "scaleInDock": 1
@@ -51,14 +60,27 @@
         "maps/dc.tmx#interior-free": {
             "scaleInDock": 1
         },
+        "maps/dc.tmx#shadowset32": {
+            "scaleInDock": 1
+        },
         "maps/zelda-like-overworld.tsx": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 4
         },
+        "tilesets/14_Basement_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/Floors_only_32x32.tsx": {
+            "scaleInDock": 1
+        },
         "tilesets/Modern tiles_Free/Tilesets_free/32x32/Tileset_32x32_9.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "tilesets/shadowset32.tsx": {
+            "scaleInDock": 1
         },
         "tilesets/zelda-like/zelda-like.tsx": {
             "dynamicWrapping": true,
@@ -70,13 +92,15 @@
     "map.lastUsedExportFilter": "JSON map files (*.json)",
     "map.lastUsedFormat": "tmx",
     "openFiles": [
-        "maps/anim.tmx"
+        "maps/dc.tmx",
+        "tilesets/14_Basement_32x32.tsx"
     ],
     "project": "dc.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "maps/anim.tmx",
+        "tilesets/14_Basement_32x32.tsx",
         "maps/dc.tmx",
+        "maps/anim.tmx",
         "tilesets/Modern tiles_Free/Tilesets_free/32x32/Tileset_32x32_9.tsx",
         "maps/zelda-like-overworld.tsx",
         "tilesets/zelda-like/zelda-like.tsx"

@@ -825,16 +825,43 @@
          "tilewidth":32
         }, 
         {
+         "columns":48,
          "firstgid":837,
-         "source":"..\/tilesets\/shadowset32.tsx"
+         "image":"..\/tilesets\/shadows\/shadowset32x32.png",
+         "imageheight":1152,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"shadowset32",
+         "spacing":0,
+         "tilecount":1728,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":2565,
-         "source":"..\/tilesets\/14_Basement_32x32.tsx"
+         "image":"..\/tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/14_Basement_32x32.png",
+         "imageheight":1568,
+         "imagewidth":512,
+         "margin":0,
+         "name":"14_Basement_32x32",
+         "spacing":0,
+         "tilecount":784,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":3349,
-         "source":"..\/tilesets\/Floors_only_32x32.tsx"
+         "image":"..\/tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Floors_only_32x32.png",
+         "imageheight":864,
+         "imagewidth":256,
+         "margin":0,
+         "name":"Floors_only_32x32",
+         "spacing":0,
+         "tilecount":216,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
