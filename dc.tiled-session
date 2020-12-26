@@ -38,11 +38,11 @@
             "scaleInEditor": 1
         },
         "maps/dc-wb-kino.tmx": {
-            "scale": 0.2059059633027523,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1648.810916179337,
-                "y": 1743.5143414090783
+                "x": 459.5,
+                "y": 309
             }
         },
         "maps/dc-wb-kino.tmx#13_Conference_Hall_32x32": {
@@ -88,10 +88,10 @@
         },
         "maps/dc.tmx": {
             "scale": 1,
-            "selectedLayer": 14,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 739.5,
-                "y": 662
+                "x": 964.5,
+                "y": 482
             }
         },
         "maps/dc.tmx#14_Basement_32x32": {
