@@ -8,7 +8,7 @@ Click on [this](https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubuse
 
 The URL is:
 
-    https://play.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/deepestcyber/rC3-world/master/maps/map.json
+    https://play.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/deepestcyber/rC3-world/master/maps/main.json
 
 # What tiles are used?
 
