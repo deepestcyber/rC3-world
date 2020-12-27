@@ -845,7 +845,7 @@
  </layer>
  <layer id="26" name="test-cinema-exit-layer" width="104" height="109" tintcolor="#55aa7f">
   <properties>
-   <property name="exitUrl" value="maps/dc-wb-kino.json#start"/>
+   <property name="exitUrl" value="dc-wb-kino.json#start"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

@@ -33,7 +33,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"maps\/dc-wb-kino.json#start"
+                 "value":"dc-wb-kino.json#start"
                 }],
          "tintcolor":"#55aa7f",
          "type":"tilelayer",
