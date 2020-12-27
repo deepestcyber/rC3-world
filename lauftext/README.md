@@ -18,6 +18,10 @@ You need:
 - base image (located in this folder)
 - text image (the image you want to display)
 
+The size of the text image depends on the base image
+of course. **The default base image requires a
+`Wx9` pixel sized text image.**
+
 You can then run:
 
 ```
