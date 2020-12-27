@@ -592,6 +592,9 @@
   <image source="../tilesets/shadows/shadowset32x32.png" width="1536" height="1152"/>
  </tileset>
  <layer id="1" name="start" width="15" height="19" tintcolor="#7a0000">
+  <properties>
+   <property name="startLayer" type="bool" value="true"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

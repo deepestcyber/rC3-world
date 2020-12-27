@@ -16,6 +16,12 @@
          "id":1,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "tintcolor":"#7a0000",
          "type":"tilelayer",
          "visible":true,
