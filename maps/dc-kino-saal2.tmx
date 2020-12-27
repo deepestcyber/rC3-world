@@ -539,6 +539,16 @@
  </tileset>
  <tileset firstgid="1037" name="13_Conference_Hall_32x32" tilewidth="32" tileheight="32" tilecount="192" columns="16">
   <image source="../tilesets/Modern_Interiors/1_Tilesets/32x32/Theme_Sorter_32x32/13_Conference_Hall_32x32.png" width="512" height="384"/>
+  <tile id="125">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="141">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
  </tileset>
  <tileset firstgid="1229" name="Floors_only_32x32" tilewidth="32" tileheight="32" tilecount="216" columns="8">
   <image source="../tilesets/Modern_Interiors/1_Tilesets/32x32/Floors_only_32x32.png" width="256" height="864"/>

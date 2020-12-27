@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"dc-wb-kino.json"
+         "target":"dc-kino-saal2.json"
         }
     },
  "height":19,
@@ -1824,6 +1824,25 @@
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":125,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":141,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
