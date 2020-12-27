@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="104" height="109" tilewidth="32" tileheight="32" infinite="0" nextlayerid="58" nextobjectid="3">
  <editorsettings>
-  <export target="map.json" format="json"/>
+  <export target="../main.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="Tileset_32x32_9" tilewidth="32" tileheight="32" tilecount="100" columns="10">
   <image source="../tilesets/Modern tiles_Free/Tilesets_free/32x32/Tileset_32x32_9.png" width="320" height="320"/>
@@ -1092,7 +1092,7 @@
  </layer>
  <layer id="51" name="world-exit-layer" width="104" height="109">
   <properties>
-   <property name="exitUrl" value="{&lt;lobby&gt;/generic-assemblies.json#start_deepcyber}"/>
+   <property name="exitUrl" value="{&lt;lobby&gt;/maps/generic-assemblies.json#start_deepcyber}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
