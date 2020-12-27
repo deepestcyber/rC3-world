@@ -606,7 +606,7 @@
  </layer>
  <layer id="21" name="main-map-exit" width="15" height="19">
   <properties>
-   <property name="exitUrl" value="map.json#test-cinema-start-layer"/>
+   <property name="exitUrl" value="map.json#saal1-start-layer"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

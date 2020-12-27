@@ -33,7 +33,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#test-cinema-start-layer"
+                 "value":"map.json#saal1-start-layer"
                 }],
          "type":"tilelayer",
          "visible":true,
