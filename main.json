@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"maps\/map.json"
         }
     },
  "height":109,
@@ -51,7 +51,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dc-kino-saal1.json#start"
+                 "value":"maps\/dc-kino-saal1.json#start"
                 }],
          "tintcolor":"#55aa7f",
          "type":"tilelayer",
@@ -89,7 +89,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dc-kino-saal2.json#start"
+                 "value":"maps\/dc-kino-saal2.json#start"
                 }],
          "tintcolor":"#55aa7f",
          "type":"tilelayer",
@@ -809,7 +809,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"..\/tilesets\/Modern tiles_Free\/Tilesets_free\/32x32\/Tileset_32x32_9.png",
+         "image":"tilesets\/Modern tiles_Free\/Tilesets_free\/32x32\/Tileset_32x32_9.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -1012,7 +1012,7 @@
         {
          "columns":16,
          "firstgid":101,
-         "image":"..\/tilesets\/Modern tiles_Free\/Tilesets_free\/32x32\/Interiors_free_32x32.png",
+         "image":"tilesets\/Modern tiles_Free\/Tilesets_free\/32x32\/Interiors_free_32x32.png",
          "imageheight":1472,
          "imagewidth":512,
          "margin":0,
@@ -1251,7 +1251,7 @@
         {
          "columns":48,
          "firstgid":837,
-         "image":"..\/tilesets\/shadows\/shadowset32x32.png",
+         "image":"tilesets\/shadows\/shadowset32x32.png",
          "imageheight":1152,
          "imagewidth":1536,
          "margin":0,
@@ -1264,7 +1264,7 @@
         {
          "columns":16,
          "firstgid":2565,
-         "image":"..\/tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/14_Basement_32x32.png",
+         "image":"tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/14_Basement_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -1277,7 +1277,7 @@
         {
          "columns":8,
          "firstgid":3349,
-         "image":"..\/tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Floors_only_32x32.png",
+         "image":"tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Floors_only_32x32.png",
          "imageheight":864,
          "imagewidth":256,
          "margin":0,
@@ -1290,7 +1290,7 @@
         {
          "columns":10,
          "firstgid":3565,
-         "image":"..\/tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Tileset_32x32_8.png",
+         "image":"tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Tileset_32x32_8.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -1448,7 +1448,7 @@
         {
          "columns":65,
          "firstgid":3665,
-         "image":"..\/tilesets\/JapaneseInteriorEssentialsv3\/Tilemap\/MainTileMap.png",
+         "image":"tilesets\/JapaneseInteriorEssentialsv3\/Tilemap\/MainTileMap.png",
          "imageheight":672,
          "imagewidth":2080,
          "margin":0,
@@ -2205,7 +2205,7 @@
         {
          "columns":11,
          "firstgid":5030,
-         "image":"..\/tilesets\/banner\/test-tileset.png",
+         "image":"tilesets\/banner\/test-tileset.png",
          "imageheight":138,
          "imagewidth":353,
          "margin":0,
@@ -2219,7 +2219,7 @@
         {
          "columns":16,
          "firstgid":5074,
-         "image":"..\/tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/1_Generic_32x32.png",
+         "image":"tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -2287,7 +2287,7 @@
         {
          "columns":16,
          "firstgid":6034,
-         "image":"..\/tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/5_Classroom_and_library_32x32.png",
+         "image":"tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/5_Classroom_and_library_32x32.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -2328,7 +2328,7 @@
         {
          "columns":16,
          "firstgid":6578,
-         "image":"..\/tilesets\/wb\/5_Classroom_and_library_32x32-mod.png",
+         "image":"tilesets\/wb\/5_Classroom_and_library_32x32-mod.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -2366,7 +2366,7 @@
         {
          "columns":10,
          "firstgid":7122,
-         "image":"..\/tilesets\/wb\/ledboard_dc.png",
+         "image":"tilesets\/wb\/ledboard_dc.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -2784,7 +2784,7 @@
         {
          "columns":16,
          "firstgid":7222,
-         "image":"..\/tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/13_Conference_Hall_32x32.png",
+         "image":"tilesets\/Modern_Interiors\/1_Tilesets\/32x32\/Theme_Sorter_32x32\/13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -2797,7 +2797,7 @@
         {
          "columns":16,
          "firstgid":7414,
-         "image":"..\/tilesets\/wb\/Kleinkram_32x32.png",
+         "image":"tilesets\/wb\/Kleinkram_32x32.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -2847,7 +2847,7 @@
         {
          "columns":2,
          "firstgid":7958,
-         "image":"..\/tilesets\/wb\/worldExit.png",
+         "image":"tilesets\/wb\/worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,

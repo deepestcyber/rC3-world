@@ -1163,7 +1163,7 @@
  </layer>
  <layer id="26" name="saal1-exit-layer" width="104" height="109" tintcolor="#55aa7f">
   <properties>
-   <property name="exitUrl" value="dc-kino-saal1.json#start"/>
+   <property name="exitUrl" value="maps/dc-kino-saal1.json#start"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1395,7 +1395,7 @@
  </layer>
  <layer id="37" name="saal2-exit-layer" width="104" height="109" tintcolor="#55aa7f">
   <properties>
-   <property name="exitUrl" value="dc-kino-saal2.json#start"/>
+   <property name="exitUrl" value="maps/dc-kino-saal2.json#start"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

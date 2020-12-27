@@ -33,7 +33,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#saal2-start-layer"
+                 "value":"..\/main.json#saal2-start-layer"
                 }],
          "type":"tilelayer",
          "visible":true,
