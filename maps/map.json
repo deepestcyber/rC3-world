@@ -299,7 +299,7 @@
          "objects":[
                 {
                  "height":0,
-                 "id":81,
+                 "id":10000,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
@@ -310,18 +310,7 @@
                 }, 
                 {
                  "height":0,
-                 "id":82,
-                 "name":"",
-                 "rotation":0,
-                 "type":"computer",
-                 "visible":true,
-                 "width":0,
-                 "x":100,
-                 "y":1050
-                }, 
-                {
-                 "height":0,
-                 "id":83,
+                 "id":10100,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
@@ -332,62 +321,29 @@
                 }, 
                 {
                  "height":0,
-                 "id":84,
+                 "id":10200,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
                  "visible":true,
                  "width":0,
                  "x":100,
-                 "y":1150
+                 "y":1200
                 }, 
                 {
                  "height":0,
-                 "id":91,
+                 "id":10300,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
                  "visible":true,
                  "width":0,
-                 "x":150,
-                 "y":1000
+                 "x":100,
+                 "y":1300
                 }, 
                 {
                  "height":0,
-                 "id":92,
-                 "name":"",
-                 "rotation":0,
-                 "type":"computer",
-                 "visible":true,
-                 "width":0,
-                 "x":150,
-                 "y":1050
-                }, 
-                {
-                 "height":0,
-                 "id":93,
-                 "name":"",
-                 "rotation":0,
-                 "type":"computer",
-                 "visible":true,
-                 "width":0,
-                 "x":150,
-                 "y":1100
-                }, 
-                {
-                 "height":0,
-                 "id":94,
-                 "name":"",
-                 "rotation":0,
-                 "type":"computer",
-                 "visible":true,
-                 "width":0,
-                 "x":150,
-                 "y":1150
-                }, 
-                {
-                 "height":0,
-                 "id":101,
+                 "id":10001,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
@@ -398,18 +354,7 @@
                 }, 
                 {
                  "height":0,
-                 "id":102,
-                 "name":"",
-                 "rotation":0,
-                 "type":"computer",
-                 "visible":true,
-                 "width":0,
-                 "x":200,
-                 "y":1050
-                }, 
-                {
-                 "height":0,
-                 "id":103,
+                 "id":10101,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
@@ -420,58 +365,113 @@
                 }, 
                 {
                  "height":0,
-                 "id":104,
+                 "id":10201,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
                  "visible":true,
                  "width":0,
                  "x":200,
-                 "y":1150
+                 "y":1200
                 }, 
                 {
                  "height":0,
-                 "id":111,
+                 "id":10301,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
                  "visible":true,
                  "width":0,
-                 "x":250,
+                 "x":200,
+                 "y":1300
+                }, 
+                {
+                 "height":0,
+                 "id":10002,
+                 "name":"",
+                 "rotation":0,
+                 "type":"computer",
+                 "visible":true,
+                 "width":0,
+                 "x":300,
                  "y":1000
                 }, 
                 {
                  "height":0,
-                 "id":112,
+                 "id":10102,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
                  "visible":true,
                  "width":0,
-                 "x":250,
-                 "y":1050
-                }, 
-                {
-                 "height":0,
-                 "id":113,
-                 "name":"",
-                 "rotation":0,
-                 "type":"computer",
-                 "visible":true,
-                 "width":0,
-                 "x":250,
+                 "x":300,
                  "y":1100
                 }, 
                 {
                  "height":0,
-                 "id":114,
+                 "id":10202,
                  "name":"",
                  "rotation":0,
                  "type":"computer",
                  "visible":true,
                  "width":0,
-                 "x":250,
-                 "y":1150
+                 "x":300,
+                 "y":1200
+                }, 
+                {
+                 "height":0,
+                 "id":10302,
+                 "name":"",
+                 "rotation":0,
+                 "type":"computer",
+                 "visible":true,
+                 "width":0,
+                 "x":300,
+                 "y":1300
+                }, 
+                {
+                 "height":0,
+                 "id":10003,
+                 "name":"",
+                 "rotation":0,
+                 "type":"computer",
+                 "visible":true,
+                 "width":0,
+                 "x":400,
+                 "y":1000
+                }, 
+                {
+                 "height":0,
+                 "id":10103,
+                 "name":"",
+                 "rotation":0,
+                 "type":"computer",
+                 "visible":true,
+                 "width":0,
+                 "x":400,
+                 "y":1100
+                }, 
+                {
+                 "height":0,
+                 "id":10203,
+                 "name":"",
+                 "rotation":0,
+                 "type":"computer",
+                 "visible":true,
+                 "width":0,
+                 "x":400,
+                 "y":1200
+                }, 
+                {
+                 "height":0,
+                 "id":10303,
+                 "name":"",
+                 "rotation":0,
+                 "type":"computer",
+                 "visible":true,
+                 "width":0,
+                 "x":400,
+                 "y":1300
                 }],
          "opacity":1,
          "type":"objectgroup",
