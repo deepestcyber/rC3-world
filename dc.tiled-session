@@ -87,11 +87,11 @@
             "scaleInEditor": 1
         },
         "maps/dc.tmx": {
-            "scale": 0.5,
+            "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 701,
-                "y": 494
+                "x": 824.5,
+                "y": 251
             }
         },
         "maps/dc.tmx#14_Basement_32x32": {
