@@ -35,7 +35,9 @@ def display_with_text(
     # rectangle.
     mask_array = np.array(display_mask)
     mask_array &= np.array(text_mask)
-    comb_mask = Image.fromarray(mask_array * 255)
+    # convert mask to pixel values (0/1 -> 0/255)
+    mask_array = ((mask_array != 0) * 255).astype('uint8')
+    comb_mask = Image.fromarray(mask_array)
 
     comb_image = base_image.copy()
     comb_image.paste(text_image_trans, (0, 4), comb_mask)
