@@ -4749,6 +4749,19 @@
         {
          "firstgid":9714,
          "source":"maps\/Misc.tsx"
+        }, 
+        {
+         "columns":1,
+         "firstgid":9717,
+         "image":"tilesets\/JapZenGarden\/Main_Tilemap_D.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"Main_Tilemap_D",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
