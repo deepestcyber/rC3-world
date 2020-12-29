@@ -14,6 +14,13 @@ def display_with_text(
 ):
     x_trans += display_border_width
 
+    if wrap_around:
+        text_image_org = text_image
+        text_w, text_h = text_image.size
+        text_image = Image.new("RGBA", (text_w * 2, text_h), 0)
+        text_image.paste(text_image_org, (0, 0), text_image_org)
+        text_image.paste(text_image_org, (text_w, 0), text_image_org)
+
     text_image_trans = Image.new("RGBA", text_image.size, 0)
     text_image_trans.paste(text_image, (x_trans, 0), text_image)
 
@@ -42,6 +49,8 @@ def display_with_text(
     comb_image = base_image.copy()
     comb_image.paste(text_image_trans, (0, 4), comb_mask)
 
+    #import pdb; pdb.set_trace()
+
     #plt.imshow(comb_image)
     #plt.imshow(display_mask)
     #plt.imshow(text_mask)
@@ -60,6 +69,9 @@ if __name__ == "__main__":
     parser.add_argument('--text-image', type=str, default='text.png')
     parser.add_argument('--speed', type=int, default=-1,
         help='Move by this many pixels each frame')
+    parser.add_argument('--wrap', action="store_true",
+        help="Hack to make a 'wrapped' appearance. Only works "
+             "with negative speeds for now.")
 
     args = parser.parse_args()
 
@@ -85,6 +97,7 @@ if __name__ == "__main__":
             base_image,
             text_image,
             x_trans=args.speed * i,
+            wrap_around=args.wrap,
         )
 
         tile_image.paste(comb_image, (x_offset, y_offset))
