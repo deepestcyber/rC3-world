@@ -2105,7 +2105,7 @@ Copyright: GuttyKreum
  </layer>
  <layer id="51" name="world-exit-layer" width="48" height="48">
   <properties>
-   <property name="exitUrl" value="world://lobby/"/>
+   <property name="exitUrl" value="world://lobby"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

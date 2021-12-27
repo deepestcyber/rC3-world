@@ -76,7 +76,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/two"
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/csh"
                 }],
          "tintcolor":"#ff5500",
          "type":"tilelayer",

@@ -33,7 +33,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/"
+                 "value":"world:\/\/lobby"
                 }],
          "type":"tilelayer",
          "visible":true,

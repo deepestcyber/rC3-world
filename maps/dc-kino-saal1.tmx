@@ -850,7 +850,7 @@ Copyright: Benevolentwanderer
  </layer>
  <layer id="23" name="stream layer" width="15" height="19" tintcolor="#ff5500">
   <properties>
-   <property name="openWebsite" value="https://streaming.media.ccc.de/rc3/one"/>
+   <property name="openWebsite" value="https://streaming.media.ccc.de/rc3/cbase"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
