@@ -225,6 +225,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"Tileset_32x32_9",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Link: https:\/\/guttykreum.itch.io\/japanese-zen-garden\n\nLicense:\n\nLICENCE:\n\nYou can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.\n\nCopyright: GuttyKreum\n\n"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -428,6 +434,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"interior-free",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Link: https:\/\/guttykreum.itch.io\/japanese-zen-garden\n\nLicense:\n\nLICENCE:\n\nYou can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.\n\nCopyright: GuttyKreum\n\n"
+                }],
          "spacing":0,
          "tilecount":736,
          "tileheight":32,
@@ -667,6 +679,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"ledboard_dc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deep cyber 2020, creative commons attribution 4.0"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -1409,6 +1427,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"led_board_dc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deep cyber 2020, creative commons attribution 4.0"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -1827,6 +1851,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"13_Conference_Hall_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Link: https:\/\/guttykreum.itch.io\/japanese-zen-garden\n\nLicense:\n\nLICENCE:\n\nYou can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.\n\nCopyright: GuttyKreum\n\n"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -1859,6 +1889,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"Floors_only_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Link: https:\/\/guttykreum.itch.io\/japanese-zen-garden\n\nLicense:\n\nLICENCE:\n\nYou can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.\n\nCopyright: GuttyKreum\n\n"
+                }],
          "spacing":0,
          "tilecount":216,
          "tileheight":32,
@@ -1872,6 +1908,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"1_Generic_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Link: https:\/\/guttykreum.itch.io\/japanese-zen-garden\n\nLicense:\n\nLICENCE:\n\nYou can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.\n\nCopyright: GuttyKreum\n\n"
+                }],
          "spacing":0,
          "tilecount":960,
          "tileheight":32,
@@ -1922,6 +1964,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"curtain",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deep cyber 2020, creative commons attribution 4.0"
+                }],
          "spacing":0,
          "tilecount":960,
          "tileheight":32,
@@ -1935,6 +1983,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"conference_hall_mod",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Link: https:\/\/guttykreum.itch.io\/japanese-zen-garden\n\nLicense:\n\nLICENCE:\n\nYou can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.\n\nCopyright: GuttyKreum\n\n"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -1961,6 +2015,12 @@
          "imagewidth":1536,
          "margin":0,
          "name":"shadowset32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Link: https:\/\/benevolentwanderer.itch.io\/easyshadingtileset\n\nLicense: Creative Commons Attribution v4.0 International\n\nCopyright: Benevolentwanderer\n"
+                }],
          "spacing":0,
          "tilecount":1728,
          "tileheight":32,
