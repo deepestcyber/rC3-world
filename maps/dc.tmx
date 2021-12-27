@@ -2105,7 +2105,7 @@ Copyright: GuttyKreum
  </layer>
  <layer id="51" name="world-exit-layer" width="48" height="48">
   <properties>
-   <property name="exitUrl" value="world://lobby/main.json"/>
+   <property name="exitUrl" value="world://lobby/lobby/floppy-landfill.json#start_deepcyber"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
