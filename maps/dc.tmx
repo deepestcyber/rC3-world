@@ -1816,6 +1816,89 @@
   </tile>
  </tileset>
  <layer id="1" name="start" width="48" height="48" tintcolor="#7a0000">
+  <properties>
+   <property name="tilesetCopyright">
+# Japanese Zen Garden
+
+Link: https://guttykreum.itch.io/japanese-zen-garden
+
+License:
+
+LICENCE:
+
+You can use the Licensed Asset to create Derivative Works; and
+
+(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
+
+(b) used for the Purchaser’s own personal use; and/or
+
+(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
+
+A Licence does not allow the Purchaser to:
+
+(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
+
+(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
+
+(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
+
+Copyright: GuttyKreum
+
+
+# Hospital Hero
+
+Link: https://hackefuffel.itch.io/hospital-hero
+
+You are a 101% systemically relevant janitor-hero! Underpaid, overstretched and
+applauded from people's balconies. You've never been more important than now!
+Go to work, risk your life and save mankind!
+
+License: proprietary
+
+Copyright: gizmo
+
+
+# Modern Interiors Tileset:
+
+Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu
+
+
+# Shadow Pack Tileset:
+
+Link: https://benevolentwanderer.itch.io/easyshadingtileset
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: Benevolentwanderer
+
+
+# Japanese Interior Tilesets:
+
+Link: https://guttykreum.itch.io/japanese-interior-essentials
+
+License:
+
+You can use the Licensed Asset to create Derivative Works; and
+
+(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
+
+(b) used for the Purchaser’s own personal use; and/or
+
+(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
+
+A Licence does not allow the Purchaser to:
+
+(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
+
+(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
+
+(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
+</property>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1869,7 +1952,7 @@
  </layer>
  <layer id="51" name="world-exit-layer" width="48" height="48">
   <properties>
-   <property name="exitUrl" value="{&lt;lobby&gt;/maps/generic-assemblies.json#start_deepcyber}"/>
+   <property name="exitUrl" value="world://lobby/"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -3251,7 +3334,7 @@
  </layer>
  <layer id="11" name="dance floor" width="48" height="48">
   <properties>
-   <property name="playAudio" value="https://stream.nightride.fm/nightride.ogg"/>
+   <property name="playAudio" value="https://cdn.c3voc.de/hls/c3lounge/segment_Native.m3u8"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
