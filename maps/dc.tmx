@@ -4,6 +4,15 @@
   <export target="../main.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="Tileset_32x32_9" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <properties>
+   <property name="tilesetCopyright">
+Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu
+</property>
+  </properties>
   <image source="../tilesets/Modern tiles_Free/Tilesets_free/32x32/Tileset_32x32_9.png" width="320" height="320"/>
   <tile id="10">
    <properties>
@@ -112,6 +121,14 @@
   </tile>
  </tileset>
  <tileset firstgid="101" name="interior-free" tilewidth="32" tileheight="32" tilecount="736" columns="16">
+  <properties>
+   <property name="tilesetCopyright">Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu
+</property>
+  </properties>
   <image source="../tilesets/Modern tiles_Free/Tilesets_free/32x32/Interiors_free_32x32.png" width="512" height="1472"/>
   <tile id="80">
    <properties>
@@ -240,9 +257,24 @@
   </tile>
  </tileset>
  <tileset firstgid="837" name="shadowset32" tilewidth="32" tileheight="32" tilecount="1728" columns="48">
+  <properties>
+   <property name="tilesetCopyright">Link: https://benevolentwanderer.itch.io/easyshadingtileset
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: Benevolentwanderer
+</property>
+  </properties>
   <image source="../tilesets/shadows/shadowset32x32.png" width="1536" height="1152"/>
  </tileset>
  <tileset firstgid="2565" name="14_Basement_32x32" tilewidth="32" tileheight="32" tilecount="784" columns="16">
+  <properties>
+   <property name="tilesetCopyright">Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu</property>
+  </properties>
   <image source="../tilesets/Modern_Interiors/1_Tilesets/32x32/Theme_Sorter_32x32/14_Basement_32x32.png" width="512" height="1568"/>
   <tile id="656">
    <properties>
@@ -266,9 +298,26 @@
   </tile>
  </tileset>
  <tileset firstgid="3349" name="Floors_only_32x32" tilewidth="32" tileheight="32" tilecount="216" columns="8">
+  <properties>
+   <property name="tilesetCopyright">Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu
+</property>
+  </properties>
   <image source="../tilesets/Modern_Interiors/1_Tilesets/32x32/Floors_only_32x32.png" width="256" height="864"/>
  </tileset>
  <tileset firstgid="3565" name="Tileset_32x32_8" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <properties>
+   <property name="tilesetCopyright">
+Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu
+</property>
+  </properties>
   <image source="../tilesets/Modern_Interiors/1_Tilesets/32x32/Tileset_32x32_8.png" width="320" height="320"/>
   <tile id="10">
    <properties>
@@ -362,6 +411,28 @@
   </tile>
  </tileset>
  <tileset firstgid="3665" name="MainTileMap" tilewidth="32" tileheight="32" tilecount="1365" columns="65">
+  <properties>
+   <property name="tilesetCopyright">Link: https://guttykreum.itch.io/japanese-interior-essentials
+
+License:
+
+You can use the Licensed Asset to create Derivative Works; and
+
+(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
+
+(b) used for the Purchaser’s own personal use; and/or
+
+(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
+
+A Licence does not allow the Purchaser to:
+
+(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
+
+(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
+
+(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
+</property>
+  </properties>
   <image source="../tilesets/JapaneseInteriorEssentialsv3/Tilemap/MainTileMap.png" width="2080" height="672"/>
   <tile id="4">
    <properties>
@@ -780,6 +851,9 @@
   </tile>
  </tileset>
  <tileset firstgid="5030" name="test-tileset" tilewidth="32" tileheight="32" tilecount="152" columns="19">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons attributions 4.0"/>
+  </properties>
   <image source="../tilesets/banner/test-tileset.png" trans="ff00ff" width="608" height="256"/>
   <tile id="86">
    <properties>
@@ -813,6 +887,13 @@
   </tile>
  </tileset>
  <tileset firstgid="5182" name="1_Generic_32x32" tilewidth="32" tileheight="32" tilecount="960" columns="16">
+  <properties>
+   <property name="tilesetCopyright">Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu</property>
+  </properties>
   <image source="../tilesets/Modern_Interiors/1_Tilesets/32x32/Theme_Sorter_32x32/1_Generic_32x32.png" width="512" height="1920"/>
   <tile id="12">
    <properties>
@@ -876,6 +957,13 @@
   </tile>
  </tileset>
  <tileset firstgid="6142" name="5_Classroom_and_library_32x32" tilewidth="32" tileheight="32" tilecount="544" columns="16">
+  <properties>
+   <property name="tilesetCopyright">Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu</property>
+  </properties>
   <image source="../tilesets/Modern_Interiors/1_Tilesets/32x32/Theme_Sorter_32x32/5_Classroom_and_library_32x32.png" width="512" height="1088"/>
   <tile id="0">
    <properties>
@@ -894,6 +982,13 @@
   </tile>
  </tileset>
  <tileset firstgid="6686" name="5_Classroom_and_library_32x32-mod" tilewidth="32" tileheight="32" tilecount="544" columns="16">
+  <properties>
+   <property name="tilesetCopyright">Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu</property>
+  </properties>
   <image source="../tilesets/wb/5_Classroom_and_library_32x32-mod.png" width="512" height="1088"/>
   <tile id="252">
    <animation>
@@ -909,6 +1004,9 @@
   </tile>
  </tileset>
  <tileset firstgid="7230" name="Tileset_32x32_LEDBoard_DC2" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons attribution 4.0"/>
+  </properties>
   <image source="../tilesets/wb/ledboard_dc.png" width="320" height="320"/>
   <tile id="99">
    <animation>
@@ -1016,9 +1114,19 @@
   </tile>
  </tileset>
  <tileset firstgid="7330" name="13_Conference_Hall_32x32" tilewidth="32" tileheight="32" tilecount="192" columns="16">
+  <properties>
+   <property name="tilesetCopyright">Link: https://limezu.itch.io/moderninteriors
+
+License: Creative Commons Attribution v4.0 International
+
+Copyright: LimeZu</property>
+  </properties>
   <image source="../tilesets/Modern_Interiors/1_Tilesets/32x32/Theme_Sorter_32x32/13_Conference_Hall_32x32.png" width="512" height="384"/>
  </tileset>
  <tileset firstgid="7522" name="Kleinkram_32x32" tilewidth="32" tileheight="32" tilecount="544" columns="16">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons attribution 4.0"/>
+  </properties>
   <image source="../tilesets/wb/Kleinkram_32x32.png" width="512" height="1088"/>
   <tile id="0">
    <animation>
@@ -1040,12 +1148,21 @@
   </tile>
  </tileset>
  <tileset firstgid="8066" name="worldExit" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <properties>
+   <property name="tilesetCopyright" value="nobody knows :(, rc3 stuffs"/>
+  </properties>
   <image source="../tilesets/wb/worldExit.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="8070" name="firefox hint" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons 4.0"/>
+  </properties>
   <image source="../tilesets/banner/firefox hint.png" width="90" height="70"/>
  </tileset>
  <tileset firstgid="8074" name="deepmona" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons 4.0"/>
+  </properties>
   <image source="../tilesets/banner/deepmona.png" width="320" height="320"/>
   <tile id="0">
    <animation>
@@ -1137,6 +1254,9 @@
   </tile>
  </tileset>
  <tileset firstgid="8174" name="gameofrc3" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons attribution 4.0"/>
+  </properties>
   <image source="../tilesets/banner/gameofrc3.png" width="320" height="320"/>
   <tile id="97">
    <animation>
@@ -1209,9 +1329,39 @@
   </tile>
  </tileset>
  <tileset firstgid="8274" name="directions" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons 4.0"/>
+  </properties>
   <image source="../tilesets/wb/directions.png" width="128" height="128"/>
  </tileset>
  <tileset firstgid="8290" name="Tileset_JapZenGardenA_32x32" tilewidth="32" tileheight="32" tilecount="896" columns="56">
+  <properties>
+   <property name="tilesetCopyright">Link: https://guttykreum.itch.io/japanese-zen-garden
+
+License:
+
+LICENCE:
+
+You can use the Licensed Asset to create Derivative Works; and
+
+(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
+
+(b) used for the Purchaser’s own personal use; and/or
+
+(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
+
+A Licence does not allow the Purchaser to:
+
+(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
+
+(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
+
+(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
+
+Copyright: GuttyKreum
+
+</property>
+  </properties>
   <image source="../tilesets/JapZenGarden/Main_Tilemap.png" width="1792" height="512"/>
   <tile id="120">
    <properties>
@@ -1420,6 +1570,33 @@
   </tile>
  </tileset>
  <tileset firstgid="9186" name="Tileset_JapZenGardenB_32x32" tilewidth="32" tileheight="32" tilecount="256" columns="8">
+  <properties>
+   <property name="tilesetCopyright">Link: https://guttykreum.itch.io/japanese-zen-garden
+
+License:
+
+LICENCE:
+
+You can use the Licensed Asset to create Derivative Works; and
+
+(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
+
+(b) used for the Purchaser’s own personal use; and/or
+
+(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
+
+A Licence does not allow the Purchaser to:
+
+(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
+
+(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
+
+(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
+
+Copyright: GuttyKreum
+
+</property>
+  </properties>
   <image source="../tilesets/JapZenGarden/Animated_Construct_your_own_pond.png" width="256" height="1024"/>
   <tile id="3">
    <animation>
@@ -1647,6 +1824,33 @@
   </tile>
  </tileset>
  <tileset firstgid="9442" name="Tileset_JapZenGardenC_32x32" tilewidth="32" tileheight="32" tilecount="128" columns="8">
+  <properties>
+   <property name="tilesetCopyright">Link: https://guttykreum.itch.io/japanese-zen-garden
+
+License:
+
+LICENCE:
+
+You can use the Licensed Asset to create Derivative Works; and
+
+(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
+
+(b) used for the Purchaser’s own personal use; and/or
+
+(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
+
+A Licence does not allow the Purchaser to:
+
+(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
+
+(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
+
+(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
+
+Copyright: GuttyKreum
+
+</property>
+  </properties>
   <image source="../tilesets/JapZenGarden/Animated_Prefabpond_Fountain_Koi.png" width="256" height="512"/>
   <tile id="3">
    <animation>
@@ -1727,12 +1931,44 @@
   </tile>
  </tileset>
  <tileset firstgid="9570" name="conway" tilewidth="32" tileheight="32" tilecount="16" columns="4">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons 4.0"/>
+  </properties>
   <image source="../tilesets/wb/conway.png" width="128" height="128"/>
  </tileset>
  <tileset firstgid="9586" name="Main_Tilemap_D" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <properties>
+   <property name="tilesetCopyright">Link: https://guttykreum.itch.io/japanese-zen-garden
+
+License:
+
+LICENCE:
+
+You can use the Licensed Asset to create Derivative Works; and
+
+(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
+
+(b) used for the Purchaser’s own personal use; and/or
+
+(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
+
+A Licence does not allow the Purchaser to:
+
+(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
+
+(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
+
+(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
+
+Copyright: GuttyKreum
+</property>
+  </properties>
   <image source="../tilesets/JapZenGarden/Main_Tilemap_D.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="9587" name="RGBLEDWall" tilewidth="32" tileheight="32" tilecount="128" columns="16">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons attribution 4.0"/>
+  </properties>
   <image source="../tilesets/RGBLEDWall.png" width="512" height="256"/>
   <tile id="110">
    <animation>
@@ -1816,89 +2052,6 @@
   </tile>
  </tileset>
  <layer id="1" name="start" width="48" height="48" tintcolor="#7a0000">
-  <properties>
-   <property name="tilesetCopyright">
-# Japanese Zen Garden
-
-Link: https://guttykreum.itch.io/japanese-zen-garden
-
-License:
-
-LICENCE:
-
-You can use the Licensed Asset to create Derivative Works; and
-
-(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
-
-(b) used for the Purchaser’s own personal use; and/or
-
-(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
-
-A Licence does not allow the Purchaser to:
-
-(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
-
-(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
-
-(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
-
-Copyright: GuttyKreum
-
-
-# Hospital Hero
-
-Link: https://hackefuffel.itch.io/hospital-hero
-
-You are a 101% systemically relevant janitor-hero! Underpaid, overstretched and
-applauded from people's balconies. You've never been more important than now!
-Go to work, risk your life and save mankind!
-
-License: proprietary
-
-Copyright: gizmo
-
-
-# Modern Interiors Tileset:
-
-Link: https://limezu.itch.io/moderninteriors
-
-License: Creative Commons Attribution v4.0 International
-
-Copyright: LimeZu
-
-
-# Shadow Pack Tileset:
-
-Link: https://benevolentwanderer.itch.io/easyshadingtileset
-
-License: Creative Commons Attribution v4.0 International
-
-Copyright: Benevolentwanderer
-
-
-# Japanese Interior Tilesets:
-
-Link: https://guttykreum.itch.io/japanese-interior-essentials
-
-License:
-
-You can use the Licensed Asset to create Derivative Works; and
-
-(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:
-
-(b) used for the Purchaser’s own personal use; and/or
-
-(c) used for the Purchaser’s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.
-
-A Licence does not allow the Purchaser to:
-
-(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;
-
-(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or
-
-(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product.
-</property>
-  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
