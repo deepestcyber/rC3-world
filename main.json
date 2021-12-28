@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"main.json"
+        }
+    },
  "height":48,
  "infinite":false,
  "layers":[
@@ -1449,7 +1457,7 @@
  "nextobjectid":3,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -5925,7 +5933,7 @@
         {
          "columns":32,
          "firstgid":9715,
-         "image":"..\/..\/rc3\/baba.png",
+         "image":"tilesets\/baba.png",
          "imageheight":2112,
          "imagewidth":1024,
          "margin":0,
@@ -7705,6 +7713,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":48
 }
