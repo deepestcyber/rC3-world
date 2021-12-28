@@ -896,7 +896,7 @@
  </objectgroup>
  <layer id="8" name="exit" width="32" height="20">
   <properties>
-   <property name="exitURL" value="../main.json#baba-start-layer"/>
+   <property name="exitUrl" value="../main.json#baba-start-layer"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
