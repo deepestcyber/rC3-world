@@ -3,10 +3,6 @@
  <editorsettings>
   <export target="baba.json" format="json"/>
  </editorsettings>
- <properties>
-  <property name="mapCopyright" value="Audio &amp; Art: Arvi Teikari"/>
-  <property name="script" value="script.js"/>
- </properties>
  <tileset firstgid="1" name="115231" tilewidth="32" tileheight="32" tilecount="2112" columns="32">
   <properties>
    <property name="tilesetCopyright" value="Arvi Teikari"/>
@@ -848,12 +844,6 @@
 </data>
  </layer>
  <layer id="13" name="audio" width="32" height="20">
-  <properties>
-   <property name="audioCopyright" value="Arvi Teikari"/>
-   <property name="audioLoop" type="bool" value="true"/>
-   <property name="audioVolume" type="float" value="0.5"/>
-   <property name="playAudio" value="../audio/baba.mp3"/>
-  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

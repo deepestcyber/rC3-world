@@ -20,27 +20,6 @@
          "id":13,
          "name":"audio",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"audioCopyright",
-                 "type":"string",
-                 "value":"Arvi Teikari"
-                }, 
-                {
-                 "name":"audioLoop",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"audioVolume",
-                 "type":"float",
-                 "value":0.5
-                }, 
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"..\/audio\/baba.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -114,17 +93,6 @@
  "nextlayerid":14,
  "nextobjectid":2,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"mapCopyright",
-         "type":"string",
-         "value":"Audio & Art: Arvi Teikari"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
