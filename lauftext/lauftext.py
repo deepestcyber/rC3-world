@@ -11,6 +11,7 @@ def display_with_text(
     wrap_around=True,
     display_size=(30, 10),
     display_border_width=1,
+    text_y=3,
 ):
     x_trans += display_border_width
 
@@ -47,7 +48,7 @@ def display_with_text(
     comb_mask = Image.fromarray(mask_array)
 
     comb_image = base_image.copy()
-    comb_image.paste(text_image_trans, (0, 4), comb_mask)
+    comb_image.paste(text_image_trans, (0, text_y), comb_mask)
 
     #import pdb; pdb.set_trace()
 
@@ -69,6 +70,8 @@ if __name__ == "__main__":
     parser.add_argument('--text-image', type=str, default='text.png')
     parser.add_argument('--speed', type=int, default=-1,
         help='Move by this many pixels each frame')
+    parser.add_argument('--max-rows', type=int, default=10,
+        help='how many tile rows to have. Max. 10 possible.')
     parser.add_argument('--wrap', action="store_true",
         help="Hack to make a 'wrapped' appearance. Only works "
              "with negative speeds for now.")
@@ -84,12 +87,12 @@ if __name__ == "__main__":
     # tile id)
     tile_width = 32
     tile_height = 32
-    tile_image_size = (10 * tile_width, 10 * tile_height)
+    tile_image_size = (10 * tile_width, args.max_rows * 2 * tile_height)
     tile_image = Image.new('RGBA', tile_image_size, 0)
 
-    for i in range(10 * 10):
-        row = i % 10
-        col = i // 10
+    for i in range(10 * args.max_rows):
+        row = i // 10
+        col = i % 10
         y_offset = row * tile_height
         x_offset = col * tile_width
 
@@ -101,5 +104,22 @@ if __name__ == "__main__":
         )
 
         tile_image.paste(comb_image, (x_offset, y_offset))
+
+    rows_filled = row + 1
+
+    for i in range(10 * args.max_rows):
+        row = rows_filled + i // 10
+        col = i % 10
+        y_offset = row * tile_height
+        x_offset = col * tile_width
+
+        comb_image = display_with_text(
+            base_image,
+            text_image,
+            x_trans=args.speed * i,
+            wrap_around=args.wrap,
+        )
+
+        tile_image.paste(comb_image, (x_offset, y_offset + 16))
 
     tile_image.save('test_tile.png')

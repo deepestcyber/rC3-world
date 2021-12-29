@@ -36,9 +36,18 @@ all your animation tiles (each row is a time-step).
 I found `fixed_01` to work quite well. You can get it
 [here](http://www.orgdot.com/aliasfonts/fixed_01.zip).
 
+The font [5x8-lcd-hd44780u-a02](https://fontstruct.com/fontstructions/show/310233/5x8_lcd_hd44780u_a02)
+works also quite nicely (since it is only 8px high).
+
 # To do / nice to have
 
 - wrap around (i.e. when reaching end of text image,
   use pixels from the end / beginning)
 
 - 16x32 tiles maybe?
+
+# Examples
+
+```
+python lauftext.py --base-image base_16p.png --text-image text_gol_5x8.png --wrap --max-rows=9
+```
