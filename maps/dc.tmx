@@ -2589,6 +2589,9 @@ Copyright: GuttyKreum
   </tile>
  </tileset>
  <tileset firstgid="11527" name="ledboard_gameofrc3" tilewidth="32" tileheight="32" tilecount="140" columns="10">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons attribution 4.0"/>
+  </properties>
   <image source="../tilesets/banner/ledboard_gameofrc3.png" width="320" height="448"/>
   <tile id="0">
    <animation>
@@ -2730,6 +2733,9 @@ Copyright: GuttyKreum
   </tile>
  </tileset>
  <tileset firstgid="11667" name="ledboard_deepmona" tilewidth="32" tileheight="32" tilecount="180" columns="10">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons attribution 4.0"/>
+  </properties>
   <image source="../tilesets/banner/ledboard_deepmona.png" width="320" height="576"/>
   <tile id="0">
    <animation>
@@ -2913,6 +2919,9 @@ Copyright: GuttyKreum
   </tile>
  </tileset>
  <tileset firstgid="11847" name="ledboard_dc" tilewidth="32" tileheight="32" tilecount="180" columns="10">
+  <properties>
+   <property name="tilesetCopyright" value="deep cyber 2020, creative commons attribution 4.0"/>
+  </properties>
   <image source="../tilesets/banner/ledboard_dc.png" width="320" height="576"/>
   <tile id="0">
    <animation>
