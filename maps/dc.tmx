@@ -36,7 +36,7 @@ Copyright: LimeZu
   </tile>
   <tile id="14">
    <properties>
-    <property name="collision" type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="18">
