@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="15" height="19" tilewidth="32" tileheight="32" infinite="0" nextlayerid="26" nextobjectid="2">
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="15" height="19" tilewidth="32" tileheight="32" infinite="0" nextlayerid="26" nextobjectid="2">
  <editorsettings>
   <export target="dc-kino-saal1.json" format="json"/>
  </editorsettings>
@@ -770,7 +770,7 @@ Copyright: Benevolentwanderer
   </properties>
   <image source="../tilesets/shadows/shadowset32x32.png" width="1536" height="1152"/>
  </tileset>
- <layer id="1" name="start" width="15" height="19" tintcolor="#7a0000">
+ <layer id="1" name="start" width="15" height="19">
   <properties>
    <property name="startLayer" type="bool" value="true"/>
   </properties>
@@ -822,7 +822,7 @@ Copyright: Benevolentwanderer
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="22" name="jitsi layer" width="15" height="19" tintcolor="#ff5500">
+ <layer id="22" name="jitsi layer" width="15" height="19">
   <properties>
    <property name="jitsiRoom" value="saal1"/>
   </properties>
@@ -848,7 +848,7 @@ Copyright: Benevolentwanderer
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="23" name="stream layer" width="15" height="19" tintcolor="#ff5500">
+ <layer id="23" name="stream layer" width="15" height="19">
   <properties>
    <property name="openWebsite" value="https://streaming.media.ccc.de/rc3/cbase"/>
   </properties>
@@ -1037,7 +1037,7 @@ Copyright: Benevolentwanderer
  </layer>
  <layer id="13" name="Exit" width="15" height="19">
   <properties>
-   <property name="ExitUrl" value="https://test.visit.at.wa-test.rc3.cccv.de/_/global/test.maps.at.wa-test.rc3.cccv.de/corridor-map/map.json#front_of_coders"/>
+   <property name="exitUrl" value="../main.json#saal1-start-layer"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
